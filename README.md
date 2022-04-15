@@ -1,1 +1,1 @@
-this is a low level language on C programming.
+All the tasks and project learnt with C language at Holberton school
